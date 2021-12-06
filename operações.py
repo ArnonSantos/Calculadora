@@ -1,0 +1,7 @@
+s1 = float (input ('Digite: '))
+s2 = float (input ('Digite: '))
+print ("Sua soma é igual a: ", s1 + s2)
+print ("Sua divisão é igual a: ", s1 / s2)
+print ("Sua multiplicação é igual a: ", (s1 * s2))
+print ("Sua subtração é igual a: ", s1 - s2)
+print ("Sua potência é igual a: ", s1 ** s2)
